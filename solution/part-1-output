@@ -1,0 +1,10 @@
+[root@2ad9d6350eda csvserver]# cat part-1-output
+Y3N2c2VydmVyIGdlbmVyYXRlZCBhdDogMTY4MDk3MzQ5Nw==
+CSVSERVER_BORDER: Orange
+2,  47
+3,  70
+4,  93
+5,  116
+6,  139
+7,  162
+8,  185
